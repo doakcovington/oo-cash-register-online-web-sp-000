@@ -26,7 +26,7 @@ class CashRegister
   end
 
   def items(item)
-
+    @items << item
   end
 
 end
